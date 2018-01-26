@@ -1,2 +1,4 @@
 # hello-world
-first repository to learn how GitHub works
+
+
+I am learning how create web apps
